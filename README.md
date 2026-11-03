@@ -1,2 +1,2 @@
 # aibdaya
-practise https://www.aibdaya.com/
+practices and exercises for course https://www.aibdaya.com/
